@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mesopotamya7
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on different projects to enhace my skills. 
+- 📫 How to reach me via github
