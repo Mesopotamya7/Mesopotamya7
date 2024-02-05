@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on different projects to enhace my skills. 
-- 📫 How to reach me via github
+- 📫 How to reach me: andreirona@hotmail.com
